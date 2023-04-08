@@ -15,6 +15,7 @@ const ArrowFunction = (props) => {
                     <img src={props.image} />
                 </div>
                 <div>
+                    ene bol ooorchlolt ene deer block code bnaa
                     <h1>{props.tittle}</h1>
                     <h1>{props.des}</h1>
                     <p>{props.date}</p>
